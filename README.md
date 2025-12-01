@@ -1,18 +1,16 @@
 # Goodie
 
-_"Perfect indie hacker resources & collections"_
+_"All in one resources collections for indie hacker, designer and developer to ship products"_
 
-Dev crates is a website that provides a collection of developer resources and tools. It is a freemium website that offers a wide range of resources for developers, including databases, clouds, and more. The website is designed to be a one-stop-shop for all your developer needs, with a focus on performance, reliability, and ease of use.
+Goodie is a website that provides a collection of resources and tools for indie, designer and developer. It is a freemium website that offers a wide range of resources including tools, websites, databases, clouds, and more. The website is designed to be a one-stop-shop for all your product development, with a focus on performance, reliability, and ease of use.
 
-You can access this site on _[https://devcrates.site](https://devcrates.site)_
+You can access this site on _[https://thegoodie.site](https://thegoodie.site)_
 
-_Screenshots:_
-
-![View](https://cdn.hashnode.com/res/hashnode/image/upload/v1733990991229/49886a53-896d-4b9c-9146-dad03454f1dd.png)
+![Shot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1763974780763/57ac20a8-e8b6-4995-bcd2-e9edd57ba5db.png)
 
 ## Motivation
 
-I've been a developer for a long time, and I've always wanted to have a place where I can find all the resources I need to be productive. I wanted to create a website that would be a one-stop-shop for all my developer needs, with a focus on performance, reliability, and ease of use.
+I've been a shipping product for a long time, and I've always wanted to have a place where I can find all the resources I need to be productive. I wanted to create a website that would be a one-stop-shop for all my product needs, with a focus on performance, reliability, and ease of use.
 
 ## Goals
 
@@ -28,7 +26,7 @@ The main goals of this project are:
 
 ## Content
 
-The content of devcrates.site is mainly focused on providing a collection of developer resources and tools. It includes databases, clouds, and more. The website is designed to be a one-stop-shop for all your developer needs, with a focus on performance, reliability, and ease of use.
+The contents is mainly focused on providing a collection of indie hacker, designer, developer resources and tools. It includes websites, tools, helper, utils, icons, illustrations, clouds, and more. The website is designed to be a one-stop-shop for all your developer needs, with a focus on performance, reliability, and ease of use.
 
 - Stacks
 - Tools
@@ -44,9 +42,8 @@ The content of devcrates.site is mainly focused on providing a collection of dev
 
 Since building this project here are list about stack, site, tech and any library in this project
 
-- [Next.js](https://nextjs.org)
+- [Tanstack start](https://tanstack.com/start)
 - [Tailwincss](https://tailwindcss.com)
-- [Lenis Scroll Smoother](https://lenis.studiofreight.com)
 - [Vercel](https://vercel.com)
 - [Shadcn UI](https://ui.shadcn.com)
 - [Radix UI](https://radix-ui.com)
@@ -84,8 +81,8 @@ You can find the documentation and details about this project in the links below
 - [Read the code policy](./CODE_OF_CONDUCT.md)
 - [Read the license](./LICENSE)
 - [Read the changelog](./CHANGELOG.md)
-- [See the discussions](https://github.com/weecraft/devcrates/discussions)
-- [See the issues](https://github.com/weecraft/devcrates/issues)
+- [See the discussions](https://github.com/weecraft/goodie/discussions)
+- [See the issues](https://github.com/weecraft/goodie/issues)
 
 ## License
 

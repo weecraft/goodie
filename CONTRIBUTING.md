@@ -4,23 +4,34 @@ Thank you for your interest in contributing to this project. Your help in making
 
 ## Getting Started
 
-Before you begin contributing, please read the README.md file to understand the project and its goals. If you have any questions, feel free to ask in the Issues section.
+Before you begin contributing, please read the [README.md](./README.md) file to understand the project and its goals. If you have any questions, feel free to ask in the Issues section.
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
+1. Clone the repository
+   ```sh
      git clone https://github.com/weecraft/goodie.git
    ```
-2. Install the dependencies by run
-   ```bash
-     npm install
+2. Install the dependencies by running the following command.
+   ```sh
+     npm i
    ```
-3. Start the development server
-   ```bash
+3. After everything ready, now start the development server by running the following command.
+   ```sh
      npm run dev
    ```
-4. Open the application in your browser `http://localhost:3000`.
+4. Open the application in your browser `http://localhost:3000`, enjoy the development time.
+
+5. For more detail, you can see the detail command bellow.
+
+| Command           | Description                                              |
+| ----------------- | -------------------------------------------------------- |
+| `npm i`           | Install project dependencies.                            |
+| `npm run dev`     | Start the development server in development mode.        |
+| `npm run build`   | Build the project for production deployment.             |
+| `npm run preview` | Serve the production build locally for preview.          |
+| `npm run test`    | Run all tests associated with the project.               |
+| `npm run check`   | Lint the project files to ensure code quality and style. |
 
 ## Issues and Pull Requests
 
@@ -43,4 +54,4 @@ If you find a security vulnerability in the project, please do not create an iss
 
 ## Code of Conduct
 
-Please note that we have a Code of Conduct in place. We expect all contributors to follow it in all interactions with the project.
+Please note that we have a [Code of Conduct](./CODE_OF_CONDUCT.md) in place. We expect all contributors to follow it in all interactions with the project.
