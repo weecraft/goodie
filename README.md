@@ -43,7 +43,7 @@ The contents is mainly focused on providing a collection of indie hacker, design
 Since building this project here are list about stack, site, tech and any library in this project
 
 - [Tanstack start](https://tanstack.com/start)
-- [Tailwincss](https://tailwindcss.com)
+- [TailwindCSS](https://tailwindcss.com)
 - [Vercel](https://vercel.com)
 - [Shadcn UI](https://ui.shadcn.com)
 - [Radix UI](https://radix-ui.com)
